@@ -1,4 +1,5 @@
 # Household Budget AI
+<img width="2546" height="1225" alt="image" src="https://github.com/user-attachments/assets/1d93ada9-7f6a-4194-ab67-76c4a9e5d59d" />
 
 A lightweight household budgeting application built with **Python, SQLite, Streamlit, and Ollama**. This MVP combines deterministic financial calculations with a locally hosted Llama language model to provide natural-language budget analysis and financial insights.
 
