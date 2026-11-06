@@ -1,0 +1,8 @@
+# Web application
+streamlit>=1.40,<2.0
+
+# HTTP communication with local Ollama API
+requests>=2.32,<3.0
+
+# Testing
+pytest>=8.0,<9.0
